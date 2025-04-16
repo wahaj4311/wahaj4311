@@ -232,7 +232,7 @@
   <br>
 
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wahaj4311&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wahaj4311&show_icons=true&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!-- &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage& -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wahaj4311&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahaj4311&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
