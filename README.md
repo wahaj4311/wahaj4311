@@ -1,5 +1,8 @@
+<h1 align="center"><b>Hello there! 👋 I'm wahaj4311</b></h1>
+<p align="center">
+  <em>A passionate DevOps Engineer exploring Cloud Native technologies and automation.</em>
+</p>
 
-<h1 align="center"><b>Hi , I'm Wahaj Babar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 
@@ -137,26 +140,18 @@
     [![Cloud Endpoints](https://img.shields.io/badge/Cloud%20Endpoints-FF6D00?style=for-the-badge)](https://cloud.google.com/endpoints)
 
 
-- **Oracle Cloud Infrastructure (OCI)**:
-   
-    [![IAM](https://img.shields.io/badge/IAM-ff6600?style=for-the-badge)](https://www.oracle.com/security/cloud-security/identity-access/)
-    [![Compute](https://img.shields.io/badge/Compute-00758f?style=for-the-badge)](https://www.oracle.com/cloud/compute/)
-    [![Block Storage](https://img.shields.io/badge/Block%20Storage-fb4f14?style=for-the-badge)](https://www.oracle.com/cloud/storage/block-storage/)
-    [![Object Storage](https://img.shields.io/badge/Object%20Storage-ff6600?style=for-the-badge)](https://www.oracle.com/cloud/storage/object-storage/)
-    [![Oracle Kubernetes](https://img.shields.io/badge/Oracle%20Kubernetes-003B57?style=for-the-badge)](https://www.oracle.com/cloud/cloud-native/container-engine-kubernetes/)
-    [![Functions](https://img.shields.io/badge/Functions-ff6600?style=for-the-badge)](https://www.oracle.com/cloud/cloud-native/functions/)
-    [![Load Balancer](https://img.shields.io/badge/Load%20Balancer-00758f?style=for-the-badge)](https://www.oracle.com/cloud/networking/load-balancing/)
-    [![Networking](https://img.shields.io/badge/Networking-003B57?style=for-the-badge)](https://www.oracle.com/cloud/networking/)
-    [![Vault](https://img.shields.io/badge/Vault-fb4f14?style=for-the-badge)](https://www.oracle.com/security/cloud-security/key-management/)
-    [![Oracle Database](https://img.shields.io/badge/Oracle%20Database-ff6600?style=for-the-badge)](https://www.oracle.com/database/)
-    [![Autonomous Database](https://img.shields.io/badge/Autonomous%20Database-00758f?style=for-the-badge)](https://www.oracle.com/autonomous-database/)
-    [![Cloud Guard](https://img.shields.io/badge/Cloud%20Guard-003B57?style=for-the-badge)](https://www.oracle.com/security/cloud-security/cloud-guard/)
-    [![Monitoring](https://img.shields.io/badge/Monitoring-fb4f14?style=for-the-badge)](https://www.oracle.com/cloud/monitoring/)
-    [![Logging](https://img.shields.io/badge/Logging-ff6600?style=for-the-badge)](https://www.oracle.com/cloud/monitoring/logging/)
-    [![Cloud Shell](https://img.shields.io/badge/Cloud%20Shell-00758f?style=for-the-badge)](https://www.oracle.com/cloud/cloud-native/cloud-shell/)
-    [![Security](https://img.shields.io/badge/Security-003B57?style=for-the-badge)](https://www.oracle.com/security/)
-    [![Governance](https://img.shields.io/badge/Governance-fb4f14?style=for-the-badge)](https://www.oracle.com/cloud/governance/)
- 
+- **Microsoft Azure Skills**:
+
+    [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+    [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/services/devops/)
+    [![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)](https://azure.microsoft.com/services/functions/)
+    [![Azure Kubernetes Service (AKS)](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=azureaks&logoColor=white)](https://azure.microsoft.com/services/kubernetes-service/)
+    [![Azure Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/services/virtual-machines/)
+    [![Azure App Service](https://img.shields.io/badge/App%20Service-2E8B57?style=for-the-badge&logo=azureappservice&logoColor=white)](https://azure.microsoft.com/services/app-service/)
+    [![Azure Storage](https://img.shields.io/badge/Storage-E83628?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/services/storage/)
+    [![Azure SQL Database](https://img.shields.io/badge/SQL%20Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://azure.microsoft.com/services/sql-database/)
+    [![Azure Monitor](https://img.shields.io/badge/Monitor-14A38C?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/services/monitor/)
+    [![Azure Key Vault](https://img.shields.io/badge/Key%20Vault-0078D4?style=for-the-badge&logo=azurekeyvault&logoColor=white)](https://azure.microsoft.com/services/key-vault/)
 
 
 - **🖥️ My Bash Scripting Skills:**:
@@ -237,10 +232,10 @@
   <br>
 
   # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wahaj4311&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wahaj4311&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!-- &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage& -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=wahaj4311&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahaj4311&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wahaj4311&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahaj4311&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
   <br>
